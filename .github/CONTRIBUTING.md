@@ -6,6 +6,9 @@ Code Challenges is an **open source** project aiming to give many options for de
 interest! This project is possible because of several community members who have invested their own time to give back
 to the dev community.
 
+## Disclaimer 
+If the challenge you want to add to the Code Challenges repo is not a public task, please do not mention the company that sent the challenge to you.If the challenge you want to add to the Code Challenges repo is not a public task, please do not mention the company that sent the challenge to you.
+
 ## Prerequisites
 
 Before contributing to Code Challenge, you should make sure you have the following tools

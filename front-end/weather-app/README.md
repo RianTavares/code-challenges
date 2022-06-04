@@ -1,7 +1,15 @@
 # Weather App
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+### Summary 
+
+Tech: ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<br>
+Level: Advanced | [Front-end](../../front-end/) Senior 
+<br>
+Rate: 🟡 🟡 🟡 🟡 ⚪️ 4/5
+<br>
+[Solutions](#solutions)
 
 ## About the challenge
 

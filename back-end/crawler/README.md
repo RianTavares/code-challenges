@@ -1,9 +1,18 @@
 # Crawler
+### Summary 
+
+Tech: Not specified (you can choose)
+<br>
+Level: Junior / mid-level | [Back-end](../../back-end/) Junior / Mid-level 
+<br>
+Rate: 🟡 🟡 🟡 ⚪️ ⚪️ 3/5
+<br>
+[Solutions](#solutions)
 
 ## About the challenge
   Create a crawler that reads [this feed] (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml) and returns a JSON structured as follows:
 
-  ```JSON
+  ```js
   {
     'feed': [
         'item': {

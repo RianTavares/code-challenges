@@ -1,8 +1,17 @@
 # Twitter Like Application 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C?style=flat&logo=reactivex)&nbsp;
 
+
+### Summary 
+
+Tech: ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C?style=flat&logo=reactivex)&nbsp;
+<br>
+Level: Advanced | [Front-end](../../front-end/) Senior 
+<br>
+Rate: 🟡 🟡 🟡 🟡 🟡 5/5
+<br>
+[Solutions](#solutions)
 ## About the challenge
 
 The task is to create a Twitter-like website. Please read through the document and
