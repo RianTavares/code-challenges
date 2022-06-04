@@ -17,8 +17,8 @@ This project was done to share different tests applied by companies worldwide so
 ## Table of contents
 
 - [Overview](#what-is-this-project-about)
-- [Front-end](./front-end/FRONT.md/#front-end-tasks)
-- [Back-end](./back-end/BACK.md/#back-end-tasks)
+- [Front-end](./front-end)
+- [Back-end](./back-end)
 - [Contributing Guidelines](./.github/CONTRIBUTING.md)
 
 ## Contributors ✨
